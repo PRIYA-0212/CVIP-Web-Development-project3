@@ -1,3 +1,3 @@
 # CVIP-Web-Development-project3
-LINK SHORTENER
+PERSONAL PORTFOLIO 
 https://priya-0212.github.io/CVIP-Web-Development-project3/
